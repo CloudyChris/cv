@@ -1,2 +1,2 @@
 # cv
-My personal CV in org mode
+My personal CV in latex
